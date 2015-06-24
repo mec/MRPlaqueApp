@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Title</key>
+		<string></string>
+		<key>Subtitle</key>
+		<string></string>
+		<key>Address</key>
+		<string></string>
+		<key>Lifetime</key>
+		<string></string>
+		<key>Erected</key>
+		<string></string>
+		<key>Note</key>
+		<string></string>
+		<key>Category</key>
+		<string></string>
+		<key>Latitude</key>
+		<integer>0</integer>
+		<key>Longitude</key>
+		<integer>0</integer>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Category</key>
+		<string>Historical</string>
+		<key>Title</key>
+		<string>Flying Bomb</string>
+		<key>Subtitle</key>
+		<string>The first Flying Bomb on London fell here, 13 June 1944.</string>
+		<key>Longitude</key>
+		<real>-0.03721833229064941</real>
+		<key>Latitude</key>
+		<real>51.5277428773941</real>
+		<key>Address</key>
+		<string>Railway Bridge, Grove Road, Bow, E3</string>
+		<key>Note</key>
+		<string>Replaces plaque erected by GLC in 1985 and subsequently stolen.</string>
+		<key>Wiki String</key>
+		<string>V-1 flying bomb</string>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Fabian Society</string>
+		<key>Category</key>
+		<string>Historical</string>
+		<key>Subtitle</key>
+		<string>The site of 17 Osnaburgh Street where the FABIAN SOCIETY was founded in 1884.</string>
+		<key>Address</key>
+		<string>The White House, Osnaburgh Street, NW1 </string>
+		<key>Longitude</key>
+		<real>-0.143917</real>
+		<key>Latitude</key>
+		<real>51.525607</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Category</key>
+		<string>Music</string>
+		<key>Title</key>
+		<string>Jimi Hendrix</string>
+		<key>Longitude</key>
+		<string>-0.145871</string>
+		<key>Latitude</key>
+		<string>51.512983</string>
+		<key>Subtitle</key>
+		<string>Guitarist and Songwriter, lived here 1968-1969.</string>
+		<key>Lifetime</key>
+		<string>(1942-1970)</string>
+		<key>Address</key>
+		<string>23 Brook Street, Mayfair, London, W1</string>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Richard Dadd</string>
+		<key>Category</key>
+		<string>Art</string>
+		<key>Subtitle</key>
+		<string>Painter, lived here. </string>
+		<key>Address</key>
+		<string>15 Suffolk Street, SW1</string>
+		<key>Lifetime</key>
+		<string>(1817-1886)</string>
+		<key>Longitude</key>
+		<string>-0.13081669807434082</string>
+		<key>Latitude</key>
+		<string>51.509249951770364</string>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Category</key>
+		<string>Art</string>
+		<key>Title</key>
+		<string>Randolph Caldecott</string>
+		<key>Subtitle</key>
+		<string>Artist and Book Illustrator, lived here.</string>
+		<key>Lifetime</key>
+		<string>(1846-1886)</string>
+		<key>Address</key>
+		<string>46 Great Russell Street, WC2</string>
+		<key>Longitude</key>
+		<real>-0.12645</real>
+		<key>Latitude</key>
+		<real>51.518371</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Category</key>
+		<string>Historical</string>
+		<key>Title</key>
+		<string>Robert Baden-Powell</string>
+		<key>Lifetime</key>
+		<string>(1857-1941)</string>
+		<key>Subtitle</key>
+		<string>Chief Scout of the World, lived here.</string>
+		<key>Address</key>
+		<string>9 Hyde Park Gate, London, SW7 </string>
+		<key>Latitude</key>
+		<string>51.501236</string>
+		<key>Longitude</key>
+		<string>-0.181661</string>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Category</key>
+		<string>Architecture</string>
+		<key>Address</key>
+		<string>1-3 Robert Street, Adelphi, London, WC2</string>
+		<key>Longitude</key>
+		<real>-0.1226091384887695</real>
+		<key>Latitude</key>
+		<real>51.5089961407416</real>
+		<key>Life Time</key>
+		<string>(1728-1792)</string>
+		<key>Title</key>
+		<string>Robert Adam</string>
+		<key>Subtitle</key>
+		<string>Achitect, lived here.</string>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Harold Abrahams</string>
+		<key>Subtitle</key>
+		<string>Olympic athelete, lived Here.</string>
+		<key>Address</key>
+		<string>Hodford Lodge, 2 Hodford Road, HW11</string>
+		<key>Life Time</key>
+		<string>1899-1978</string>
+		<key>Erected</key>
+		<string>Barnet 2007</string>
+		<key>Note</key>
+		<string></string>
+		<key>Category</key>
+		<string>Sport</string>
+		<key>Longitude</key>
+		<real>-0.197303295135498</real>
+		<key>Latitude</key>
+		<real>51.56649356125444</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Emile Zola</string>
+		<key>Subtitle</key>
+		<string>French Novelist, lived here 1898-1899.</string>
+		<key>Address</key>
+		<string>Queen&apos;s Hotel, 122 Church Road, Upper Norwood, SE19 </string>
+		<key>Lifetime</key>
+		<string>1840-1902</string>
+		<key>Erected</key>
+		<string>Croydon 1990</string>
+		<key>Category</key>
+		<string>Litrature</string>
+		<key>Note</key>
+		<string></string>
+		<key>Longitude</key>
+		<string>-0.083148</string>
+		<key>Latitude</key>
+		<string>51.414818</string>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Johann Zoffany</string>
+		<key>Subtitle</key>
+		<string>Painter, lived here 1790-1810.</string>
+		<key>Category</key>
+		<string>Art</string>
+		<key>Lifetime</key>
+		<string>1733-1810</string>
+		<key>Latitude</key>
+		<real>51.492518</real>
+		<key>Longitude</key>
+		<real>-0.258525</real>
+		<key>Erected</key>
+		<string>Hounslow 1973</string>
+		<key>Note</key>
+		<string></string>
+		<key>Address</key>
+		<string>65 Strand-on-the-Green, Chiswick, W4</string>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Israel Zangwill</string>
+		<key>Subtitle</key>
+		<string>Writer and Philanthropist, lived here.</string>
+		<key>Lifetime</key>
+		<string>1864-1926</string>
+		<key>Address</key>
+		<string>288 Old Ford Road, Bethnal Green, E2
+</string>
+		<key>Erected</key>
+		<string>Tower Hamlets 1965</string>
+		<key>Category</key>
+		<string>Arts</string>
+		<key>Note</key>
+		<string></string>
+		<key>Latitude</key>
+		<real>51.536049</real>
+		<key>Longitude</key>
+		<real>-0.026322</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Thomas Young</string>
+		<key>Subtitle</key>
+		<string>Man of Science, lived here.</string>
+		<key>Address</key>
+		<string>48 Welbeck Street, W1 </string>
+		<key>Category</key>
+		<string>Science</string>
+		<key>Lifetime</key>
+		<string>1773-1829</string>
+		<key>Erected</key>
+		<string>Westminster 1951</string>
+		<key>Latitude</key>
+		<real>51.517886</real>
+		<key>Longitude</key>
+		<real>-0.149509</real>
+		<key>Wiki String</key>
+		<string>Thomas_Young_(scientist)</string>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Forest Frederick Edward Yeo-Thomas</string>
+		<key>Subtitle</key>
+		<string>Secret Agent, codename &apos;The White Rabbit&apos;, lived here.</string>
+		<key>Address</key>
+		<string>Queen Court, Guilford Street, WC1
+</string>
+		<key>Lifetime</key>
+		<string>1902-1964</string>
+		<key>Category</key>
+		<string>War</string>
+		<key>Erected</key>
+		<string>Camden 2010  
+</string>
+		<key>Latitude</key>
+		<real>51.523292</real>
+		<key>Longitude</key>
+		<real>-0.120589</real>
+		<key>Favorite</key>
+		<false/>
+		<key>Wiki String</key>
+		<string>Forest_Frederick_Edward_Yeo-Thomas</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>William Butler Yeats</string>
+		<key>Subtitle</key>
+		<string>Irish Poet and Dramatist, lived here. </string>
+		<key>Address</key>
+		<string>23 Fitzroy Road, NW1 </string>
+		<key>Lifetime</key>
+		<string>1865-1939</string>
+		<key>Erected</key>
+		<string>Camden 1957</string>
+		<key>Category</key>
+		<string>Arts</string>
+		<key>Note</key>
+		<string></string>
+		<key>Latitude</key>
+		<real>51.540428</real>
+		<key>Longitude</key>
+		<real>-0.154273</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Martin Van Buren</string>
+		<key>Subtitle</key>
+		<string>Eighth US President, lived here.</string>
+		<key>Address</key>
+		<string>7 Stratford Place, W1</string>
+		<key>Lifetime</key>
+		<string>1782-1862</string>
+		<key>Erected</key>
+		<string>Westminster 1977</string>
+		<key>Note</key>
+		<string></string>
+		<key>Category</key>
+		<string>Political</string>
+		<key>Latitude</key>
+		<real>51.514856</real>
+		<key>Longitude</key>
+		<real>-0.149225</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Vincent Van Gogh</string>
+		<key>Subtitle</key>
+		<string>Painter, lived here 1873-1874.</string>
+		<key>Address</key>
+		<string>87 Hackford Road, SW9</string>
+		<key>Lifetime</key>
+		<string>1853-1890</string>
+		<key>Erected</key>
+		<string>Lambeth 1973</string>
+		<key>Note</key>
+		<string></string>
+		<key>Category</key>
+		<string>Art</string>
+		<key>Latitude</key>
+		<real>51.474337</real>
+		<key>Longitude</key>
+		<real>-0.115376</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Sir Harry Vane</string>
+		<key>Subtitle</key>
+		<string>Statesman, lived here. Born 1612, beheaded 1662.</string>
+		<key>Address</key>
+		<string>Vane House, Rosslyn Hill, NW3</string>
+		<key>Lifetime</key>
+		<string>1612-1662</string>
+		<key>Erected</key>
+		<string>Camden 1897</string>
+		<key>Note</key>
+		<string>Note: House demolished but plaque remains on surviving gate pier.</string>
+		<key>Category</key>
+		<string>Political</string>
+		<key>Latitude</key>
+		<real>51.553855</real>
+		<key>Longitude</key>
+		<real>-0.170506</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Ralph Vaughan Williams</string>
+		<key>Subtitle</key>
+		<string>Composer, lived here from 1953 until his death.</string>
+		<key>Address</key>
+		<string>10 Hanover Terrace, Regent&apos;s Park, NW1</string>
+		<key>Lifetime</key>
+		<string>1872-1958</string>
+		<key>Erected</key>
+		<string>Westminster 1972</string>
+		<key>Note</key>
+		<string></string>
+		<key>Category</key>
+		<string>Music</string>
+		<key>Latitude</key>
+		<real>51.527807</real>
+		<key>Longitude</key>
+		<real>-0.16268</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Michael Ventris</string>
+		<key>Subtitle</key>
+		<string>Architect and Decipherer of Linear B script, lived here.</string>
+		<key>Address</key>
+		<string>19 North End, Hampstead, NW3</string>
+		<key>Lifetime</key>
+		<string>1922-1956</string>
+		<key>Erected</key>
+		<string>Camden 1990</string>
+		<key>Note</key>
+		<string></string>
+		<key>Category</key>
+		<string>Architecture</string>
+		<key>Latitude</key>
+		<real>51.554733</real>
+		<key>Longitude</key>
+		<real>-0.169248</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Swami Vivekananda</string>
+		<key>Subtitle</key>
+		<string>Hindu Philosopher, lived here in 1896</string>
+		<key>Address</key>
+		<string>63 St George&apos;s Drive, SW1</string>
+		<key>Lifetime</key>
+		<string>1863-1902</string>
+		<key>Erected</key>
+		<string>Kensington and Chelsea 2004</string>
+		<key>Note</key>
+		<string></string>
+		<key>Category</key>
+		<string>Religion</string>
+		<key>Latitude</key>
+		<real>51.490194</real>
+		<key>Longitude</key>
+		<real>-0.142513</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Friedric Von Hügel</string>
+		<key>Subtitle</key>
+		<string>Theologian, lived here 1882-1903.</string>
+		<key>Address</key>
+		<string>4 Holford Road, NW3.</string>
+		<key>Lifetime</key>
+		<string>1852-1925</string>
+		<key>Erected</key>
+		<string>Camden 1968</string>
+		<key>Note</key>
+		<string></string>
+		<key>Category</key>
+		<string>Philosophy</string>
+		<key>Latitude</key>
+		<real>51.560274</real>
+		<key>Longitude</key>
+		<real>-0.177497</real>
+		<key>Favorite</key>
+		<false/>
+		<key>Wiki String</key>
+		<string>Baron_Friedrich_von_Hugel</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Charles Voysey</string>
+		<key>Subtitle</key>
+		<string>Architect and Designer, lived here.</string>
+		<key>Address</key>
+		<string>6 Carlton Hill, St John&apos;s Wood, NW8.</string>
+		<key>Lifetime</key>
+		<string>1857-1941</string>
+		<key>Erected</key>
+		<string>Westminster 1995</string>
+		<key>Note</key>
+		<string></string>
+		<key>Category</key>
+		<string>Architecture</string>
+		<key>Latitude</key>
+		<real>51.537238</real>
+		<key>Longitude</key>
+		<real>-0.179285</real>
+		<key>Favorite</key>
+		<false/>
+		<key>Wiki String</key>
+		<string>Charles_Voysey_(architect)</string>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Lincoln Stanhope Wainwright</string>
+		<key>Subtitle</key>
+		<string>Vicar of St Peter&apos;s, London Docks, lived here 1884-1929.</string>
+		<key>Address</key>
+		<string>Clergy House, Wapping Lane, E1 </string>
+		<key>Lifetime</key>
+		<string>1847-1929</string>
+		<key>Erected</key>
+		<string>Tower Hamlets 1961</string>
+		<key>Note</key>
+		<string></string>
+		<key>Category</key>
+		<string>Religion</string>
+		<key>Latitude</key>
+		<real>51.50554</real>
+		<key>Longitude</key>
+		<real>-0.05813</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Thomas Wakley</string>
+		<key>Subtitle</key>
+		<string>Reformer and Founder of &apos;The Lancet&apos;, lived here. </string>
+		<key>Address</key>
+		<string>35 Bedford Square, WC1 </string>
+		<key>Lifetime</key>
+		<string>1795-1862</string>
+		<key>Erected</key>
+		<string>Camden 1962
+</string>
+		<key>Note</key>
+		<string></string>
+		<key>Category</key>
+		<string>Historical</string>
+		<key>Latitude</key>
+		<real>51.51881</real>
+		<key>Longitude</key>
+		<real>-0.131</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Authur Waley</string>
+		<key>Subtitle</key>
+		<string>Poet, Translator and Orientalist, lived and died here. </string>
+		<key>Address</key>
+		<string>50 Southwood Lane, Highgate Village, N6 </string>
+		<key>Lifetime</key>
+		<string>1889-1966</string>
+		<key>Erected</key>
+		<string>Haringey 1995</string>
+		<key>Note</key>
+		<string></string>
+		<key>Category</key>
+		<string>Arts</string>
+		<key>Latitude</key>
+		<real>51.57215</real>
+		<key>Longitude</key>
+		<real>-0.14889</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Sir Emery Walker</string>
+		<key>Subtitle</key>
+		<string>Typographer and Antiquary, lived here 1903-1933. </string>
+		<key>Address</key>
+		<string>7 Hammersmith Terrace, W6 </string>
+		<key>Lifetime</key>
+		<string>1851-1933</string>
+		<key>Erected</key>
+		<string>Hammersmith and Fulham 1959</string>
+		<key>Note</key>
+		<string></string>
+		<key>Category</key>
+		<string>Arts</string>
+		<key>Latitude</key>
+		<real>51.49004</real>
+		<key>Longitude</key>
+		<real>-0.24183</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Alfred Russel Wallace</string>
+		<key>Subtitle</key>
+		<string>Naturalist, lived here. </string>
+		<key>Address</key>
+		<string>44 St Peter&apos;s Road, London</string>
+		<key>Lifetime</key>
+		<string>1823-1913</string>
+		<key>Erected</key>
+		<string>Croydon 1979</string>
+		<key>Note</key>
+		<string></string>
+		<key>Category</key>
+		<string>Science</string>
+		<key>Latitude</key>
+		<real>51.62992</real>
+		<key>Longitude</key>
+		<real>-0.05092</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Edgar Wallace</string>
+		<key>Subtitle</key>
+		<string>Writer, lived here.</string>
+		<key>Address</key>
+		<string>6 Tressillian Crescent, SE4 </string>
+		<key>Lifetime</key>
+		<string>1875-1932</string>
+		<key>Erected</key>
+		<string>Lewisham 1960</string>
+		<key>Note</key>
+		<string></string>
+		<key>Category</key>
+		<string>Litrature</string>
+		<key>Latitude</key>
+		<real>51.46398</real>
+		<key>Longitude</key>
+		<real>-0.02674</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Sir Robert Walpole</string>
+		<key>Subtitle</key>
+		<string>Prime Minister, and his son Horace WALPOLE (1717-1797), Connoisseur and Man of Letters, lived here.</string>
+		<key>Address</key>
+		<string>5 Arlington Street, SW1</string>
+		<key>Lifetime</key>
+		<string>1676-1745</string>
+		<key>Erected</key>
+		<string>Westminster 1976</string>
+		<key>Note</key>
+		<string>Replaces plaque erected by RSA in 1881 to Sir Robert Walpole alone.</string>
+		<key>Category</key>
+		<string></string>
+		<key>Latitude</key>
+		<real>51.50709</real>
+		<key>Longitude</key>
+		<real>-0.14093</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>John Walter</string>
+		<key>Subtitle</key>
+		<string>Founder of &apos;The Times&apos;, lived here.</string>
+		<key>Address</key>
+		<string>113 Clapham Common North Side, SW4</string>
+		<key>Lifetime</key>
+		<string>1739-1812</string>
+		<key>Erected</key>
+		<string>Wandsworth 1977</string>
+		<key>Note</key>
+		<string></string>
+		<key>Category</key>
+		<string>Historical</string>
+		<key>Latitude</key>
+		<real>51.46131</real>
+		<key>Longitude</key>
+		<real>-0.15947</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>Title</key>
+		<string>Sir William Walton</string>
+		<key>Subtitle</key>
+		<string>Composer, lived here.</string>
+		<key>Address</key>
+		<string>Lowndes Cottage, 8 Lowndes Place, SW1</string>
+		<key>Lifetime</key>
+		<string>1902-1983</string>
+		<key>Erected</key>
+		<string>Westminster 2009</string>
+		<key>Note</key>
+		<string></string>
+		<key>Category</key>
+		<string>Music</string>
+		<key>Latitude</key>
+		<real>51.49692</real>
+		<key>Longitude</key>
+		<real>-0.15347</real>
+		<key>Favorite</key>
+		<false/>
+	</dict>
+</array>
+</plist>

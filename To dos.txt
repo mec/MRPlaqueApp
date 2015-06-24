@@ -1,0 +1,18 @@
+Must do
+
+- decide on the data structure
+- impliment search on the plaque list - DONE
+- finalise search - what is searched?
+- think about how the map works, what is displayed and when
+- how to go from a plaque detail to the map
+- memory management - low memory warning
+- buttons needs work
+- detail view needs work
+
+
+Could do
+
+- think about categories - DONE
+- think about favorites
+
+cllocation distance from location
